@@ -12,7 +12,7 @@
   spacings being removed for the sake of easier modern readability.
   
   Known Bugs:
-  - If the computer wins in the player vs computer mode, the program will
+  - If the computer wins 3 rounds in the player vs computer mode, the program will
   output that the player wins. This can changed by a simple edit in the output text.
   
   What I Learned:
