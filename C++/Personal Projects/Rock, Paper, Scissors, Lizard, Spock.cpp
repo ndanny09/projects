@@ -15,6 +15,21 @@
   Note: In order to preserve the legacy of the program, original code
   remains unchanged beside comments being removed and past unnecessary
   spacings being removed for the sake of easier modern readability.
+  
+  Known Bugs:
+  - Scissors and Paper are mixed up in the console display.
+  - There is flawed logic whereas the player could choose paper while
+    the computer chooses scissors and the outcome appears that player wins.
+    
+  What I Learned:
+  In the event that this project were to be recreated or updated, I would be
+  more careful with the conditional statements as to determine a winner, as
+  the magnitude of if statements not only increasingly gets confusing the more 
+  that exist, but they also slow down the program's functionality since each
+  condition is checked sequentially. There are more efficient ways I can think of 
+  now to implement this game, but in the moment in time that this was written, 
+  I had a limited scope of knowledge and a lack of sense for quality control. In 
+  essence, thd program was a creative idea, but the execution leaves more to be desired.
 */
 
 #include <iostream>
