@@ -4,6 +4,12 @@ import java.awt.event.ItemListener;
 import javax.swing.*;
 import javax.swing.event.*;
 
+/* Word Styling Panel
+ * Danny Nguyen
+ * April 18, 2019
+ * See WordStylingDriver class for program description.
+*/
+
 public class WordStylingPanel extends JPanel {
   private JLabel saying;
   private JCheckBox bold, italic;
