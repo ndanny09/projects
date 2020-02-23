@@ -1,1 +1,1 @@
-This folder contains legacy code for curricular projects written in C++.
+This folder contains curricular projects written in C++.
