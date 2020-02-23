@@ -72,8 +72,7 @@ void quizq(){
   }
 }
 
-void quiz()
-{
+void quiz(){
   cout << "Are you ready to take a quiz? (y/n)" << endl;
   cin >> quiza;
   cout << "" << endl;
