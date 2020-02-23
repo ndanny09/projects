@@ -1,1 +1,1 @@
-This folder contains personal projects outside the scope of curriculars.
+This folder contains personal projects outside the scope of curriculars written in C++.
