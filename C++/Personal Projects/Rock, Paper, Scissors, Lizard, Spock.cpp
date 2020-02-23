@@ -29,7 +29,7 @@
   condition is checked sequentially. There are more efficient ways I can think of 
   now to implement this game, but in the moment in time that this was written, 
   I had a limited scope of knowledge and a lack of sense for quality control. In 
-  essence, thd program was a creative idea, but the execution leaves more to be desired.
+  essence, the program was a creative idea, but the execution leaves more to be desired.
 */
 
 #include <iostream>
