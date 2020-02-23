@@ -10,6 +10,7 @@
 
 ### 2. Java
 * __Curricular__
+	* Moving Car
 	* Temperature
 	* WordStyling
 * __Personal Projects__
