@@ -10,7 +10,7 @@ import javax.swing.JFrame;
  * Updated: February 23, 2020
  * Legacy code was preserved and not edited in any way other than
  * the title of the classes being renamed from "Farenheit" &
- * "FarenheitPanel" to "Temperature" & "Temperature Panel" for 
+ * "FarenheitPanel" to "TemperatureDriver" & "TemperaturePanel" for 
  * better coherence. Unnecessary blank lines were also removed
  * for better readability.
  * 
