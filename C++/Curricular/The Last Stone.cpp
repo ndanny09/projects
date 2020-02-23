@@ -10,6 +10,18 @@
   Note: In order to preserve the legacy of the program, original code
   remains unchanged beside comments being removed and past unnecessary
   spacings being removed for the sake of easier modern readability.
+  
+  What I Learned:
+  In working through this project with a partner, I found that communication
+  was a more important skill than programming knowledge itself, as both
+  partners needed to be synchronized on the concepts on how to implement the game.
+  Just as how good teamwork can surpass the work of an individual, the opposite
+  scenario of miscommunication can also slow down progress and hinder the
+  project's performance. From this project, I also took notes on how a seemingly
+  simple concept in the human mind can grow complex in the implementation of
+  a game played with the computer. For example, for this game to work, there
+  must be a turn counter, an input validatior, a random number generator,
+  and the conditional boundaries to stop and check for who the winner is.
 */
 
 #include <iostream>
