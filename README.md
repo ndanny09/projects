@@ -1,13 +1,15 @@
 #Projects
+
 *Display portfolio of curricular and personal projects*
-#1. C++
+
+#C++
 * __Curricular__
 	* LearnPortuguese
 	* TheLastStone
 * __Personal Projects__
 	* RockPaperScissorsLizardSpock
 
-#2. Java
+#Java
 * __Curricular__
 	* Temperature
 	* WordStyling
