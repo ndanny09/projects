@@ -11,6 +11,10 @@
   remains unchanged beside comments being removed and past unnecessary
   spacings being removed for the sake of easier modern readability.
   
+  Known Bugs:
+  - If the computer wins in the player vs computer mode, the program will
+  output that the player wins. This can changed by a simple edit in the output text.
+  
   What I Learned:
   In working through this project with a partner, I found that communication
   was a more important skill than programming knowledge itself, as both
