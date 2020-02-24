@@ -24,7 +24,7 @@
   project's performance. From this project, I also took notes on how a seemingly
   simple concept in the human mind can grow complex in the implementation of
   a game played with the computer. For example, for this game to work, there
-  must be a turn counter, an input validatior, a random number generator,
+  must be a turn counter, an input validator, a random number generator,
   and the conditional boundaries to stop and check for who the winner is.
 */
 
