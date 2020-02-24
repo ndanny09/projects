@@ -10,10 +10,11 @@
 
 ### 2. Java
 * __Curricular__
-	* Moving Car
+	* MovingCar
 	* Temperature
 	* WordStyling
 * __Personal Projects__
+	* GradeMe
 
 __Contact:__
 * ndanny09@gmail.com
