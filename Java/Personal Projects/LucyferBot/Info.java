@@ -41,8 +41,8 @@ public class Info extends Command {
     display.setTitle("__Info__");
     display.setDescription("**Developer:** " + jda.getUserById("204448598539239424").getAsMention()
         + "\n**Bot:** " + jda.getSelfUser().getAsMention() + "\n**Created:** `"
-        + jda.getSelfUser().getTimeCreated().format(dtf) + " GMT` \n**Version:** `UNRELEASED` "
-        + "\n**Language:** `Java` \n**Source:** `UNRELEASED` \n**Uptime:** " + uptime);
+        + jda.getSelfUser().getTimeCreated().format(dtf) + " GMT` \n**Version:** `1.0` "
+        + "\n**Language:** `Java` \n**Source:** `https://github.com/ndanny09/projects/tree/master/Java/Personal%20Projects/LucyferBot` \n**Uptime:** " + uptime);
     display.setThumbnail(jda.getSelfUser().getAvatarUrl());
     sendEmbed(e, display);
   }
