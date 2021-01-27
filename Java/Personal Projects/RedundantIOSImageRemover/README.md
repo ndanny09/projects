@@ -1,0 +1,1 @@
+When uploading IOS images to your computer, if you have an edited version of an image, the device keeps both the original and the edited image file. This makes the original image redundant and takes up space, so I made a program that removes the original image if an edited version exists.
