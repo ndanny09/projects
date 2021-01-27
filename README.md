@@ -17,6 +17,7 @@
 	* GradeMe (Predictive Course Grading)
 	* LucyferBot (Discord Bot)
 	* RedundantIOSImageRemover (Redundant Original/Edited Image Deletion)
+
 __Contact:__
 * ndanny09@gmail.com
 * [LinkedIn](https://www.linkedin.com/in/ndanny09/"LinkedIn")
